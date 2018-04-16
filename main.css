@@ -46,3 +46,7 @@ ul{
   text-decoration: none;
   font-size: 60px;
 }
+.box li a:hover{
+  color: #b9b9b9;
+  transition-duration: 1s;
+}
